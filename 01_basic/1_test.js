@@ -1,0 +1,1 @@
+console.log("start js 16 sept 2024 day Monday time 10:08PM");
